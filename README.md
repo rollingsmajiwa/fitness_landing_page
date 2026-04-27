@@ -49,7 +49,7 @@ c. Open 'index.html' in any browser.
 
 **8. Screenshots**
 
-![Desktop View](screenshots/screenshots.jpg)
+![Desktop View](assets/screenshots/screenshots.jpg)
 
 
 
